@@ -71,6 +71,15 @@ Summary/Findings: They refer to part 1 about data collection however there is no
 Financial Factors explored: Variance inflation factor (VIF), Ease of Movement (EVM), Relative Strength Index (RSI), Moving Average (MA)
 Notes: Other articles are better sources since they target most of these factors while also including data collection within the same source and better explanation of implementing code. 
 
+**Link: https://mitchellrosenthalofficial.medium.com/crash-course-python-pandas-for-trading-and-investing-part-1-714b77dfdc21
+Title: Crash Course — Python & Pandas for Trading and Investing (Part 1)
+Summary/Findings: Helpful for imports, creating time series and using moving average to create signals and evaluate returns on investment. 
+
+
+**Link: https://towardsdatascience.com/bollinger-bands-for-stock-trading-theory-and-practice-in-python-7d3e79d30e02
+Notes: Uses Bollinger bands
+
+
 
 
 
