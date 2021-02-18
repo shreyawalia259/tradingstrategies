@@ -1,12 +1,11 @@
 # Import yfinance
 import yfinance as yf
 
-# Get the data for stock Facebook from 2017-04-01 to 2019-04-30
+#Download the data for the Apple stock from 2017-04-01 to 2019-04-30 using yfinance
 data = yf.download('AAPL', start="2017-04-01", end="2019-04-30")
 
 # Print the first five rows of the data
 data.head()
-
 
 
 # Import pandas
@@ -16,8 +15,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 
-
-
 data.index = pd.to_datetime(data.index, dayfirst=True)
 
 # Visualise the data
@@ -26,14 +23,16 @@ data['Close'].plot(figsize=(10,5))
 plt.legend()
 plt.show()
 
-# Calculate exponential moving average
+# Calculate exponential moving average using exponential weighted function in pandas. Since we are taking exponential moving average, 
+#we can take exponential weighted mean using ewm(span=x).mean() where span is the time period of moving average. 
 data['12d_EMA'] = data.Close.ewm(span=12, adjust=False).mean()
 data['26d_EMA'] = data.Close.ewm(span=26, adjust=False).mean()
 
+#Plotting the closing value of stock price along with the 12 day and 26day moving average
 data[['Close','12d_EMA','26d_EMA']].plot(figsize=(10,5))
 plt.show()
 
-# Calculate MACD
+# Calculating MACD 
 data['macd'] = data['12d_EMA']- data['26d_EMA'] 
 
 # Calculate Signal
