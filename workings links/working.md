@@ -1,13 +1,7 @@
-# This is an <h1>
-## This is an <h2>
-###### This is an <h6>
-
- Trading Strategies <h1>
-
- Article Summaries <h2>
+# Article Summaries 
 
 
-**Title: A Step-by-step Implementation of a Trading Strategy in Python using ARIMA + GARCH models
+**Title: A Step-by-step Implementation of a Trading Strategy in Python using ARIMA + GARCH models <h2>
 
 Link: https://medium.com/analytics-vidhya/a-step-by-step-implementation-of-a-trading-strategy-in-python-using-arima-garch-models-b622e5b3aa39 
 Implementation Method: Python implementation of ARIMA + Garch which is the improvement on Arima And Garch applied in R
