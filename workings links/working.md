@@ -1,7 +1,8 @@
-# Article Summaries 
+# Trading Strategies 
+## Article Summaries <h2> <h1> 
 
 
-**Title: A Step-by-step Implementation of a Trading Strategy in Python using ARIMA + GARCH models <h2>
+**Title: A Step-by-step Implementation of a Trading Strategy in Python using ARIMA + GARCH models 
 
 Link: https://medium.com/analytics-vidhya/a-step-by-step-implementation-of-a-trading-strategy-in-python-using-arima-garch-models-b622e5b3aa39 
 Implementation Method: Python implementation of ARIMA + Garch which is the improvement on Arima And Garch applied in R
