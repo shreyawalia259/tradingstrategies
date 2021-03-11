@@ -1,4 +1,6 @@
-# tradingstrategies
+# Trading Strategies <h1>
+
+# Article Summaries <h2>
 
 
 **Title: A Step-by-step Implementation of a Trading Strategy in Python using ARIMA + GARCH models
