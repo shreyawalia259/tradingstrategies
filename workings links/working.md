@@ -1,6 +1,10 @@
-# Trading Strategies <h1>
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
 
-## Article Summaries <h2>
+ Trading Strategies <h1>
+
+ Article Summaries <h2>
 
 
 **Title: A Step-by-step Implementation of a Trading Strategy in Python using ARIMA + GARCH models
