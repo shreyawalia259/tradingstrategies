@@ -1,5 +1,5 @@
 # Trading Strategies 
-## Article Summaries <h2> <h1> 
+## Article Summaries 
 
 
 **Title: A Step-by-step Implementation of a Trading Strategy in Python using ARIMA + GARCH models 
@@ -120,7 +120,7 @@ Title:Modeling Your Stock Portfolio Performance with Python
 
 
 
-
+<h2> <h1> 
 
 
 
