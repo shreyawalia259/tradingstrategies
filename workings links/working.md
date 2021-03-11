@@ -14,14 +14,14 @@ Code: Arima+Garch. Sp500_forecasts file needed for the signal
 
 ## Title: Python For Trading: An Introduction
 
-Link: https://blog.quantinsti.com/python-trading/
-Method: Moving Average Convergence Divergence (MACD)
-Performance Evaluation
+* **Link:** https://blog.quantinsti.com/python-trading/
+* **Method:** Moving Average Convergence Divergence (MACD)
+* **Performance Evaluation**
 •	Annualised return,
 •	Annualised volatility, and
 •	Sharpe ratio.
-Has a good explanation from libraries to download to moving averages. Simple strategy to follow and how to check its performance. Good introduction for someone who is new to this but has basic python knowledge. 
-**Code: MACD strategy. 
+* **Summary:** Has a good explanation from libraries to download to moving averages. Simple strategy to follow and how to check its performance. Good introduction for someone who is new to this but has basic python knowledge. 
+* **Code: MACD strategy.**
 
 <h2>
 
