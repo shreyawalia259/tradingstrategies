@@ -107,39 +107,37 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 **Code: Testing moving average** 
 <h2>
 
-**Link: https://towardsdatascience.com/bollinger-bands-for-stock-trading-theory-and-practice-in-python-7d3e79d30e02
-Notes: Uses Bollinger bands
+## Bollinger Bands for stock trading — Theory and practice in Python
+* **Link:** https://towardsdatascience.com/bollinger-bands-for-stock-trading-theory-and-practice-in-python-7d3e79d30e02
+* **Notes:** Uses Bollinger bands
+<h2>
+
+## Creating a Financial Dashboard with Python
+* **Link**  https://towardsdatascience.com/creating-a-financial-dashboard-with-python-6d8583e38b57
+* **Summary/Findings:** Teaches how to create a dashboard using plotly and dash to view revenue and net income data on any stock entered. 
+* **Notes:** Looks like link used for API is out of date and the wrong keys are being called. So it makes the dashboard but is not able to load the data. 
+<h2>
 
 
-**Link: https://towardsdatascience.com/creating-a-financial-dashboard-with-python-6d8583e38b57
+## Title:Building an ML forecasting tool to predict stock price movement using Technical Indicators on S&P100 companies
+* **Link:** https://towardsdatascience.com/implementation-of-technical-indicators-into-a-machine-learning-framework-for-quantitative-trading-44a05be8e06
+* **Summary/Findings:** Uses random forest model to predict stock price movement on S&P100 companies.
+<h2>
 
-Title: Creating a Financial Dashboard with Python
-Summary/Findings: Teaches how to create a dashboard using plotly and dash to view revenue and net income data on any stock entered. 
-Looks like link used for API is out of date and the wrong keys are being called. So it makes the dashboard but is not able to load the data. 
+## Title:Making a Stock Screener with Python!
+* **Link:** https://towardsdatascience.com/making-a-stock-screener-with-python-4f591b198261
+* **Summary/Findings:** Used 7 different conidtions on stocks current values to return a dataframe which shows all the stocks that passed or meet the requirements. 
+* **Note:** Helpful if you have some criteria in your mind. 
+* **Code:Screener**
+<h2>
 
-
-**Link:https://towardsdatascience.com/implementation-of-technical-indicators-into-a-machine-learning-framework-for-quantitative-trading-44a05be8e06
-
-Title:Building an ML forecasting tool to predict stock price movement using Technical Indicators on S&P100 companies
-Summary/Findings: Uses random forest model to predict stock price movement on S&P100 companies.
-
-**Link: https://towardsdatascience.com/making-a-stock-screener-with-python-4f591b198261
-
-Title:Making a Stock Screener with Python!
-Summary/Findings: Used 7 different conidtions on stocks current values to return a dataframe which shows all the stocks that passed or meet the requirements. 
-Helpful if you have some criteria in your mind. 
-**Code:Screener
-
-**Link:https://towardsdatascience.com/modeling-your-stock-portfolio-performance-with-python-fbba4ef2ef11
-
-Title:Modeling Your Stock Portfolio Performance with Python
-
-
+## Modeling Your Stock Portfolio Performance with Python
+* **Link:** https://towardsdatascience.com/modeling-your-stock-portfolio-performance-with-python-fbba4ef2ef11
+<h2>
 
 
 <h1> 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
 
 
