@@ -63,12 +63,13 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
   
 
 
-## 4 Python Libraries to Help you Make Money from Webscraping <h2>
-#### https://medium.com/python-in-plain-english/4-python-libraries-to-help-you-make-money-from-webscraping-57ba6d8ce56d 
+## 4 Python Libraries to Help you Make Money from Webscraping 
+### https://medium.com/python-in-plain-english/4-python-libraries-to-help-you-make-money-from-webscraping-57ba6d8ce56d 
+<h3>
 * **Summary/Findings:** It is good for learning basic webscraping using beautiful soup or selenium. However for finance specifically since there is yfinance library that easily pulls data from yahoo, not sure how useful it is. 
 * **Libraries:** selenium, bs4
 * **Note:** for selenium you need to get the library, get chrome driver and all of that so it is easier to just use bs4. 
-<h4> 
+<h2> 
   
 
 ## Automate Your Stock Portfolio Research With Python in 6 Minutes
