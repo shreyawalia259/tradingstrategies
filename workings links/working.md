@@ -83,24 +83,29 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 * **Libraries:** Tweepy(twitter), praw(Reddit), dash, dashbootstrap components, flask, plotly
 <h2>
 
-**Link: https://medium.com/swlh/intrinsic-valuation-of-stocks-using-python-5d902a34b1a0
 
-Title: Intrinsic Valuation of Stocks Using Python
-Summary/findings: Purpose of this article is to help create a discounted cash flow model in python to calculate intrinsic value of a company. This helps to see whether or not a company is overvalued which can give help information for trading. Not exactly a trading strategy but good exploration of things that are impactful for stock market. 
-**Code: Evaluation.
 
-**Link: https://medium.com/swlh/time-series-data-analysis-machine-learning-algorithm-for-stock-trading-2e22a5b3794a
+## Intrinsic Valuation of Stocks Using Python
+* **Link:** https://medium.com/swlh/intrinsic-valuation-of-stocks-using-python-5d902a34b1a0
+* **Summary/findings:** Purpose of this article is to help create a discounted cash flow model in python to calculate intrinsic value of a company. This helps to see whether or not a company is overvalued which can give help information for trading. Not exactly a trading strategy but good exploration of things that are impactful for stock market. 
+* **Code: Evaluation.**
+<h2>
 
-Title: Time-Series Data Analysis & Machine Learning Algorithm for Stock Trading
-Summary/Findings: They refer to part 1 about data collection however there is no link to it, so finding data used is tricky. However, this author has several similar articles to look at regarding trading strategies. This part focuses on ML algorithms and hyper -parameter optimization
-Financial Factors explored: Variance inflation factor (VIF), Ease of Movement (EVM), Relative Strength Index (RSI), Moving Average (MA)
-Notes: Other articles are better sources since they target most of these factors while also including data collection within the same source and better explanation of implementing code. 
 
-**Link: https://mitchellrosenthalofficial.medium.com/crash-course-python-pandas-for-trading-and-investing-part-1-714b77dfdc21
 
-Title: Crash Course — Python & Pandas for Trading and Investing (Part 1)
-Summary/Findings: Helpful for imports, creating time series and using moving average to create signals and evaluate returns on investment. 
-**Code: Testing moving average
+## Time-Series Data Analysis & Machine Learning Algorithm for Stock Trading
+* **Link:** https://medium.com/swlh/time-series-data-analysis-machine-learning-algorithm-for-stock-trading-2e22a5b3794a
+* **Summary/Findings:** They refer to part 1 about data collection however there is no link to it, so finding data used is tricky. However, this author has several similar articles to look at regarding trading strategies. This part focuses on ML algorithms and hyper -parameter optimization
+* **Financial Factors explored:** Variance inflation factor (VIF), Ease of Movement (EVM), Relative Strength Index (RSI), Moving Average (MA)
+* **Notes:** Other articles are better sources since they target most of these factors while also including data collection within the same source and better explanation of implementing code. 
+<h2>
+  
+
+## Crash Course — Python & Pandas for Trading and Investing (Part 1)
+* **Link:** https://mitchellrosenthalofficial.medium.com/crash-course-python-pandas-for-trading-and-investing-part-1-714b77dfdc21
+* **Summary/Findings:** Helpful for imports, creating time series and using moving average to create signals and evaluate returns on investment. 
+**Code: Testing moving average** 
+<h2>
 
 **Link: https://towardsdatascience.com/bollinger-bands-for-stock-trading-theory-and-practice-in-python-7d3e79d30e02
 Notes: Uses Bollinger bands
