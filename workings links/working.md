@@ -33,48 +33,55 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 
 <h2> 
   
-**Link: https://medium.com/analytics-vidhya/building-a-technical-analysis-chart-with-python-17107b78b297
 
-Title: Building a Technical Analysis Chart with Python
-Method: Building MACD, MA10,MA30 and RSI charts
-•	Used talib library to get MACD, MA10,MA30 and RSI. Very useful and easy. 
-•	Useful resource for pulling data and plotting it using common trading strategies such as MACD. 
-•	Good as a starting point. 
-Libraries required: Talib, mplfinance 
-**Code: Technical Analysis Visualization
 
-**Link: https://medium.com/analytics-vidhya/trading-dashboard-pt-2-yfinance-python-d482678b498d
+## Building a Technical Analysis Chart with Python
+* **Link:** https://medium.com/analytics-vidhya/building-a-technical-analysis-chart-with-python-17107b78b297
+* **Method:** Building MACD, MA10,MA30 and RSI charts
+  *	Used talib library to get MACD, MA10,MA30 and RSI. Very useful and easy. 
+  *	Useful resource for pulling data and plotting it using common trading strategies such as MACD. 
+  *	Good as a starting point. 
+* **Libraries required:** Talib, mplfinance 
+* **Code: Technical Analysis Visualization**
+<h2>
+  
 
-Title: Trading Dashboard Pt.2 — Yfinance & Python.
-Summary/Finding: good for how to pull live data, calculate key indicators such as returns, sharpe ratio and annual volatility and display to compare stocks interested in. 
-Libraries: hvplot
+
+## Trading Dashboard Pt.2 — Yfinance & Python.
+* **Link:** https://medium.com/analytics-vidhya/trading-dashboard-pt-2-yfinance-python-d482678b498d
+* **Summary/Finding:** good for how to pull live data, calculate key indicators such as returns, sharpe ratio and annual volatility and display to compare stocks interested in. 
+* **Libraries:** hvplot
 **Code:dashboard 
+<h2>
 
 
-**Link: https://medium.com/dataseries/deepmind-open-sourced-this-new-architecture-to-improve-long-term-memory-in-deep-learning-systems-dab7ed82986f
 
-Title: DeepMind Open Sourced This New Architecture to Improve Long-Term Memory in Deep Learning Systems
-Summary/Findings: Talks about deep learning systems and mentions LSTM model and its advantages or disadvantages. Good for people who know about artificial neural networks already. A very brief article though I do not think it has much learning potential.
+## DeepMind Open Sourced This New Architecture to Improve Long-Term Memory in Deep Learning Systems
+* **Link:** https://medium.com/dataseries/deepmind-open-sourced-this-new-architecture-to-improve-long-term-memory-in-deep-learning-systems-dab7ed82986f
+* **Summary/Findings:** Talks about deep learning systems and mentions LSTM model and its advantages or disadvantages. Good for people who know about artificial neural networks already. A very brief article though I do not think it has much learning potential.
+<h2>
+  
 
-**Link: https://medium.com/python-in-plain-english/4-python-libraries-to-help-you-make-money-from-webscraping-57ba6d8ce56d
 
-Title: 4 Python Libraries to Help you Make Money from Webscraping
-Summary/Findings: It is good for learning basic webscraping using beautiful soup or selenium. However for finance specifically since there is yfinance library that easily pulls data from yahoo, not sure how useful it is. 
-Libraries: selenium, bs4
-Note: for selenium you need to get the library, get chrome driver and all of that so it is easier to just use bs4. 
+## 4 Python Libraries to Help you Make Money from Webscraping
+* **Link: https://medium.com/python-in-plain-english/4-python-libraries-to-help-you-make-money-from-webscraping-57ba6d8ce56d
+* **Summary/Findings:** It is good for learning basic webscraping using beautiful soup or selenium. However for finance specifically since there is yfinance library that easily pulls data from yahoo, not sure how useful it is. 
+* **Libraries:** selenium, bs4
+* **Note:** for selenium you need to get the library, get chrome driver and all of that so it is easier to just use bs4. 
+<h2> 
+  
 
-**Link: https://medium.com/swlh/automating-your-stock-portfolio-research-with-python-for-beginners-912dc02bf1c2
-
-Title: Automate Your Stock Portfolio Research With Python in 6 Minutes
-Summary/Findings: Information on how to pull information on company stocks using APIs
-Notes: the code provided had some key errors and errors that other users in comments faced too. 
-
-**Link: https://medium.com/swlh/how-to-create-a-dashboard-to-dominate-the-stock-market-using-python-and-dash-c35a12108c93
-
-Title: How to Create a Dashboard to Dominate the Stock Market Using Python and Dash
-Summary/Findings: Helpful for dashboard but very lengthy code to pull live data to create a dashboard. I feel like other resources show easier ways, this is just more visually pleasing. No trading strategies mentioned and uses data from twitter and reddit than calculating any key performance indicators. 
-Libraries: Tweepy(twitter), praw(Reddit), dash, dashbootstrap components, flask, plotly
-
+## Automate Your Stock Portfolio Research With Python in 6 Minutes
+* **Link:** https://medium.com/swlh/automating-your-stock-portfolio-research-with-python-for-beginners-912dc02bf1c2
+* **Summary/Findings:** Information on how to pull information on company stocks using APIs
+* **Notes:** the code provided had some key errors and errors that other users in comments faced too. 
+<h2>
+  
+## How to Create a Dashboard to Dominate the Stock Market Using Python and Dash
+* **Link:** https://medium.com/swlh/how-to-create-a-dashboard-to-dominate-the-stock-market-using-python-and-dash-c35a12108c93
+* **Summary/Findings:** Helpful for dashboard but very lengthy code to pull live data to create a dashboard. I feel like other resources show easier ways, this is just more visually pleasing. No trading strategies mentioned and uses data from twitter and reddit than calculating any key performance indicators. 
+* **Libraries:** Tweepy(twitter), praw(Reddit), dash, dashbootstrap components, flask, plotly
+<h2>
 
 **Link: https://medium.com/swlh/intrinsic-valuation-of-stocks-using-python-5d902a34b1a0
 
@@ -127,5 +134,7 @@ Title:Modeling Your Stock Portfolio Performance with Python
 
 <h1> 
 
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 
