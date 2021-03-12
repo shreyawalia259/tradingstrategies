@@ -51,7 +51,7 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 * **Link:** https://medium.com/analytics-vidhya/trading-dashboard-pt-2-yfinance-python-d482678b498d
 * **Summary/Finding:** good for how to pull live data, calculate key indicators such as returns, sharpe ratio and annual volatility and display to compare stocks interested in. 
 * **Libraries:** hvplot
-**Code:dashboard 
+* **Code:dashboard 
 <h2>
 
 
