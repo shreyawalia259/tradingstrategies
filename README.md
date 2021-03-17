@@ -6,6 +6,10 @@
 
 1. **Implementation examples:** Implemented examples of the strategies from the trading strategies exaplained in the guide, that are pulled from the working links.
 
+1. **Report:** Report on work done through this semester
+
+1. **Dashboard Creation:** Collecting materials on how to create a dashboard
+
 
 <h1>
 
