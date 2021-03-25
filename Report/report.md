@@ -2,8 +2,10 @@
 
 
 ## The Objective
-The first thing discussed was the articles that Professor Huo had collected on trading strategies and visualizing important stock metrics in Python. The goal was decided to be a thorough evaluation of each article to check for reproducibility and teaching abilities. Out of that, a second goal was to possibly generate some teaching module for a financial analysis class if the sources provided concrete learning examples and aids.
-
+* Evaluating existing trading strategies implemented in Python to potentially create a teaching module for a financial data analysis course.
+* Looking into creating a dashboard tracking stock performance and strategy performance. 
+<h2>
+ 
 ### Introduction 
 
 <h3>
@@ -27,6 +29,6 @@ I then created a file, with information on how to download the different librari
 
 
  <h3>
-<h2>
+
 
 <h1>
