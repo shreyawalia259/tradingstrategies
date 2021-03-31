@@ -32,7 +32,7 @@ After that, I created jupyter notebooks, giving information on each block of cod
 
  <h3>
  
-### Utilizing the Github Repository
+### Utilizing this Github Repository
 The way a person can use the github repository is by going through the working links folder and then file to find reproducible and helpful articles. Fromt here they can read a summary of the article and find a direct link to the code implemeneted in a Jupyter Notebook. Before that, they can use the installations file in the implemented examples folder to install any libraries needed. Next they can run the code and play around with it and learn about the strategy the author used. They can also read about using the yfinance and ta-lib libraries on their own for running their own strategies in Python and the theory on the strategy that the author applied. 
 
 
