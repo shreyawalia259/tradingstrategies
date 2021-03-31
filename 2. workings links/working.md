@@ -1,5 +1,6 @@
 # Article Summaries 
 
+## Reproducible Case Studies 
 
 ## A Step-by-Step Implementation of a Trading Strategy in Python using ARIMA + GARCH models 
 
@@ -27,16 +28,6 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 
 <h2>
 
-
-
-## Python for Algorithmic Trading: A to Z test.
-* **Link:** https://medium.com/analytics-vidhya/python-i-have-tested-a-trading-mathematical-technic-in-realtime-658a80381151
-* **Note:** About Bollinger Bands 
-
-<h2> 
-  
-
-
 ## Building a Technical Analysis Chart with Python
 * **Link:** https://medium.com/analytics-vidhya/building-a-technical-analysis-chart-with-python-17107b78b297
 * **Method:** Building MACD, MA10,MA30 and RSI charts
@@ -48,8 +39,6 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 * **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/Technical%20Analysis%20Visualization.ipynb
 <h2>
   
-
-
 ## Trading Dashboard Pt.2 — Yfinance & Python.
 * **Link:** https://medium.com/analytics-vidhya/trading-dashboard-pt-2-yfinance-python-d482678b498d
 * **Summary/Finding:** good for how to pull live data, calculate key indicators such as returns, sharpe ratio and annual volatility and display to compare stocks interested in. 
@@ -57,8 +46,38 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 * **Code:dashboard**
 * **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/dashboard.ipynb
 <h2>
+  
+## Intrinsic Valuation of Stocks Using Python
+* **Link:** https://medium.com/swlh/intrinsic-valuation-of-stocks-using-python-5d902a34b1a0
+* **Summary/findings:** Purpose of this article is to help create a discounted cash flow model in python to calculate intrinsic value of a company. This helps to see whether or not a company is overvalued which can give help information for trading. Not exactly a trading strategy but good exploration of things that are impactful for stock market. 
+* **Code: Evaluation.**
+* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/Evaluation.ipynb
+<h2>
 
+## Crash Course — Python & Pandas for Trading and Investing (Part 1)
+* **Link:** https://mitchellrosenthalofficial.medium.com/crash-course-python-pandas-for-trading-and-investing-part-1-714b77dfdc21
+* **Summary/Findings:** Helpful for imports, creating time series and using moving average to create signals and evaluate returns on investment. 
+* **Code: Testing moving average** 
+* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/testing%20moving%20average.ipynb
+<h2>
+  
+## Title:Making a Stock Screener with Python!
+* **Link:** https://towardsdatascience.com/making-a-stock-screener-with-python-4f591b198261
+* **Summary/Findings:** Used 7 different conidtions on stocks current values to return a dataframe which shows all the stocks that passed or meet the requirements. 
+* **Note:** Helpful if you have some criteria in your mind. 
+* **Code:Screener**
+* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/Screener.ipynb
+<h2>
 
+<h2>
+
+## Non-Reproducible
+  
+## Python for Algorithmic Trading: A to Z test.
+* **Link:** https://medium.com/analytics-vidhya/python-i-have-tested-a-trading-mathematical-technic-in-realtime-658a80381151
+* **Note:** About Bollinger Bands 
+<h2> 
+  
 
 ## DeepMind Open Sourced This New Architecture to Improve Long-Term Memory in Deep Learning Systems
 * **Link:** https://medium.com/dataseries/deepmind-open-sourced-this-new-architecture-to-improve-long-term-memory-in-deep-learning-systems-dab7ed82986f
@@ -87,17 +106,6 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 * **Libraries:** Tweepy(twitter), praw(Reddit), dash, dashbootstrap components, flask, plotly
 <h2>
 
-
-
-## Intrinsic Valuation of Stocks Using Python
-* **Link:** https://medium.com/swlh/intrinsic-valuation-of-stocks-using-python-5d902a34b1a0
-* **Summary/findings:** Purpose of this article is to help create a discounted cash flow model in python to calculate intrinsic value of a company. This helps to see whether or not a company is overvalued which can give help information for trading. Not exactly a trading strategy but good exploration of things that are impactful for stock market. 
-* **Code: Evaluation.**
-* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/Evaluation.ipynb
-<h2>
-
-
-
 ## Time-Series Data Analysis & Machine Learning Algorithm for Stock Trading
 * **Link:** https://medium.com/swlh/time-series-data-analysis-machine-learning-algorithm-for-stock-trading-2e22a5b3794a
 * **Summary/Findings:** They refer to part 1 about data collection however there is no link to it, so finding data used is tricky. However, this author has several similar articles to look at regarding trading strategies. This part focuses on ML algorithms and hyper -parameter optimization
@@ -105,15 +113,6 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 * **Notes:** Other articles are better sources since they target most of these factors while also including data collection within the same source and better explanation of implementing code. 
 <h2>
   
-
-## Crash Course — Python & Pandas for Trading and Investing (Part 1)
-* **Link:** https://mitchellrosenthalofficial.medium.com/crash-course-python-pandas-for-trading-and-investing-part-1-714b77dfdc21
-* **Summary/Findings:** Helpful for imports, creating time series and using moving average to create signals and evaluate returns on investment. 
-* **Code: Testing moving average** 
-* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/testing%20moving%20average.ipynb
-
-<h2>
-
 ## Bollinger Bands for stock trading — Theory and practice in Python
 * **Link:** https://towardsdatascience.com/bollinger-bands-for-stock-trading-theory-and-practice-in-python-7d3e79d30e02
 * **Notes:** Uses Bollinger bands
@@ -131,19 +130,12 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 * **Summary/Findings:** Uses random forest model to predict stock price movement on S&P100 companies.
 <h2>
 
-## Title:Making a Stock Screener with Python!
-* **Link:** https://towardsdatascience.com/making-a-stock-screener-with-python-4f591b198261
-* **Summary/Findings:** Used 7 different conidtions on stocks current values to return a dataframe which shows all the stocks that passed or meet the requirements. 
-* **Note:** Helpful if you have some criteria in your mind. 
-* **Code:Screener**
-* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/Screener.ipynb
-<h2>
 
 ## Modeling Your Stock Portfolio Performance with Python
 * **Link:** https://towardsdatascience.com/modeling-your-stock-portfolio-performance-with-python-fbba4ef2ef11
 <h2>
 
-
+<h2>
 <h1> 
 
 
