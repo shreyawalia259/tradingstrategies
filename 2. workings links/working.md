@@ -2,7 +2,7 @@
 
 ## Reproducible Case Studies 
 
-## A Step-by-Step Implementation of a Trading Strategy in Python using ARIMA + GARCH models 
+### A Step-by-Step Implementation of a Trading Strategy in Python using ARIMA + GARCH models 
 
 * **Link:** https://medium.com/analytics-vidhya/a-step-by-step-implementation-of-a-trading-strategy-in-python-using-arima-garch-models-b622e5b3aa39 
 * **Implementation Method:** Python implementation of ARIMA + Garch which is the improvement on Arima And Garch applied in R
@@ -12,9 +12,9 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 * **Code: Arima+Garch. Sp500_forecasts file needed for the signal**
 * **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/Arima%2BGarch.ipynb 
 
-<h2>
+<h3>
 
-## Python For Trading: An Introduction
+### Python For Trading: An Introduction
 
 * **Link:** https://blog.quantinsti.com/python-trading/
 * **Method:** Moving Average Convergence Divergence (MACD)
@@ -26,9 +26,9 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 * **Code: MACD strategy.**
 * **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/MACD%20strategy.ipynb
 
-<h2>
+<h3>
 
-## Building a Technical Analysis Chart with Python
+### Building a Technical Analysis Chart with Python
 * **Link:** https://medium.com/analytics-vidhya/building-a-technical-analysis-chart-with-python-17107b78b297
 * **Method:** Building MACD, MA10,MA30 and RSI charts
   *	Used talib library to get MACD, MA10,MA30 and RSI. Very useful and easy. 
@@ -37,103 +37,103 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 * **Libraries required:** Talib, mplfinance 
 * **Code: Technical Analysis Visualization**
 * **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/Technical%20Analysis%20Visualization.ipynb
-<h2>
+<h3>
   
-## Trading Dashboard Pt.2 — Yfinance & Python.
+### Trading Dashboard Pt.2 — Yfinance & Python.
 * **Link:** https://medium.com/analytics-vidhya/trading-dashboard-pt-2-yfinance-python-d482678b498d
 * **Summary/Finding:** good for how to pull live data, calculate key indicators such as returns, sharpe ratio and annual volatility and display to compare stocks interested in. 
 * **Libraries:** hvplot
 * **Code:dashboard**
 * **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/dashboard.ipynb
-<h2>
+<h3>
   
-## Intrinsic Valuation of Stocks Using Python
+### Intrinsic Valuation of Stocks Using Python
 * **Link:** https://medium.com/swlh/intrinsic-valuation-of-stocks-using-python-5d902a34b1a0
 * **Summary/findings:** Purpose of this article is to help create a discounted cash flow model in python to calculate intrinsic value of a company. This helps to see whether or not a company is overvalued which can give help information for trading. Not exactly a trading strategy but good exploration of things that are impactful for stock market. 
 * **Code: Evaluation.**
 * **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/Evaluation.ipynb
-<h2>
+<h3>
 
-## Crash Course — Python & Pandas for Trading and Investing (Part 1)
+### Crash Course — Python & Pandas for Trading and Investing (Part 1)
 * **Link:** https://mitchellrosenthalofficial.medium.com/crash-course-python-pandas-for-trading-and-investing-part-1-714b77dfdc21
 * **Summary/Findings:** Helpful for imports, creating time series and using moving average to create signals and evaluate returns on investment. 
 * **Code: Testing moving average** 
 * **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/testing%20moving%20average.ipynb
-<h2>
+<h3>
   
-## Title:Making a Stock Screener with Python!
+### Title:Making a Stock Screener with Python!
 * **Link:** https://towardsdatascience.com/making-a-stock-screener-with-python-4f591b198261
 * **Summary/Findings:** Used 7 different conidtions on stocks current values to return a dataframe which shows all the stocks that passed or meet the requirements. 
 * **Note:** Helpful if you have some criteria in your mind. 
 * **Code:Screener**
 * **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/Screener.ipynb
-<h2>
+<h3>
 
 <h2>
 
 ## Non-Reproducible
   
-## Python for Algorithmic Trading: A to Z test.
+### Python for Algorithmic Trading: A to Z test.
 * **Link:** https://medium.com/analytics-vidhya/python-i-have-tested-a-trading-mathematical-technic-in-realtime-658a80381151
 * **Note:** About Bollinger Bands 
-<h2> 
+<h3> 
   
 
-## DeepMind Open Sourced This New Architecture to Improve Long-Term Memory in Deep Learning Systems
+### DeepMind Open Sourced This New Architecture to Improve Long-Term Memory in Deep Learning Systems
 * **Link:** https://medium.com/dataseries/deepmind-open-sourced-this-new-architecture-to-improve-long-term-memory-in-deep-learning-systems-dab7ed82986f
 * **Summary/Findings:** Talks about deep learning systems and mentions LSTM model and its advantages or disadvantages. Good for people who know about artificial neural networks already. A very brief article though I do not think it has much learning potential.
-<h2>
+<h3>
   
 
 
-## 4 Python Libraries to Help you Make Money from Webscraping 
+### 4 Python Libraries to Help you Make Money from Webscraping 
 * **Link:** https://medium.com/python-in-plain-english/4-python-libraries-to-help-you-make-money-from-webscraping-57ba6d8ce56d 
 * **Summary/Findings:** It is good for learning basic webscraping using beautiful soup or selenium. However for finance specifically since there is yfinance library that easily pulls data from yahoo, not sure how useful it is. 
 * **Libraries:** selenium, bs4
 * **Note:** for selenium you need to get the library, get chrome driver and all of that so it is easier to just use bs4. 
-<h2> 
+<h3> 
   
 
-## Automate Your Stock Portfolio Research With Python in 6 Minutes
+### Automate Your Stock Portfolio Research With Python in 6 Minutes
 * **Link:** https://medium.com/swlh/automating-your-stock-portfolio-research-with-python-for-beginners-912dc02bf1c2
 * **Summary/Findings:** Information on how to pull information on company stocks using APIs
 * **Notes:** the code provided had some key errors and errors that other users in comments faced too. 
-<h2>
+<h3>
   
-## How to Create a Dashboard to Dominate the Stock Market Using Python and Dash
+### How to Create a Dashboard to Dominate the Stock Market Using Python and Dash
 * **Link:** https://medium.com/swlh/how-to-create-a-dashboard-to-dominate-the-stock-market-using-python-and-dash-c35a12108c93
 * **Summary/Findings:** Helpful for dashboard but very lengthy code to pull live data to create a dashboard. I feel like other resources show easier ways, this is just more visually pleasing. No trading strategies mentioned and uses data from twitter and reddit than calculating any key performance indicators. 
 * **Libraries:** Tweepy(twitter), praw(Reddit), dash, dashbootstrap components, flask, plotly
-<h2>
+<h3>
 
-## Time-Series Data Analysis & Machine Learning Algorithm for Stock Trading
+### Time-Series Data Analysis & Machine Learning Algorithm for Stock Trading
 * **Link:** https://medium.com/swlh/time-series-data-analysis-machine-learning-algorithm-for-stock-trading-2e22a5b3794a
 * **Summary/Findings:** They refer to part 1 about data collection however there is no link to it, so finding data used is tricky. However, this author has several similar articles to look at regarding trading strategies. This part focuses on ML algorithms and hyper -parameter optimization
 * **Financial Factors explored:** Variance inflation factor (VIF), Ease of Movement (EVM), Relative Strength Index (RSI), Moving Average (MA)
 * **Notes:** Other articles are better sources since they target most of these factors while also including data collection within the same source and better explanation of implementing code. 
-<h2>
+<h3>
   
-## Bollinger Bands for stock trading — Theory and practice in Python
+### Bollinger Bands for stock trading — Theory and practice in Python
 * **Link:** https://towardsdatascience.com/bollinger-bands-for-stock-trading-theory-and-practice-in-python-7d3e79d30e02
 * **Notes:** Uses Bollinger bands
-<h2>
+<h3>
 
-## Creating a Financial Dashboard with Python
+### Creating a Financial Dashboard with Python
 * **Link**  https://towardsdatascience.com/creating-a-financial-dashboard-with-python-6d8583e38b57
 * **Summary/Findings:** Teaches how to create a dashboard using plotly and dash to view revenue and net income data on any stock entered. 
 * **Notes:** Looks like link used for API is out of date and the wrong keys are being called. So it makes the dashboard but is not able to load the data. 
-<h2>
+<h3>
 
 
-## Title:Building an ML forecasting tool to predict stock price movement using Technical Indicators on S&P100 companies
+### Title:Building an ML forecasting tool to predict stock price movement using Technical Indicators on S&P100 companies
 * **Link:** https://towardsdatascience.com/implementation-of-technical-indicators-into-a-machine-learning-framework-for-quantitative-trading-44a05be8e06
 * **Summary/Findings:** Uses random forest model to predict stock price movement on S&P100 companies.
-<h2>
+<h3>
 
 
-## Modeling Your Stock Portfolio Performance with Python
+### Modeling Your Stock Portfolio Performance with Python
 * **Link:** https://towardsdatascience.com/modeling-your-stock-portfolio-performance-with-python-fbba4ef2ef11
-<h2>
+<h3>
 
 <h2>
 <h1> 
