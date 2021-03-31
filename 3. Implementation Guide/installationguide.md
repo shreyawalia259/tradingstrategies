@@ -12,7 +12,7 @@
 
 * **How to install:** Insert 'conda install -c ranaroussi yfinance' into a cell in a jupyter notebook and click run 
 
-### How to use
+### Using the Library
 
 Now that you have it installed, start of by importing yfinance->
 
@@ -56,7 +56,7 @@ These will let you see the dictionary or different keys in the dictionary so you
 
 * **Import it:** Import talib
 
-###vHow to use it
+### Using the Library
 *	Download stock data using yfinance
 * Create a dataframe using downloaded data. Ex: df=msft.history(start=, end=)
 
