@@ -78,7 +78,7 @@ Other indicators:
 *	MACD->
 *	data["macd"], data["macd_signal"], data["macd_hist"] = talib.MACD(data['Close'])
 
-Here MACD is the moving average convergence divergence. The MACD signal is the 9-day EMA and the MACD histogram which graphs the distance between MACD and its signal line. 
+Here MACD is the moving average convergence divergence. The MACD signal is the 9-day EMA and the MACD histogram which graphs the distance between MACD and its signal line.
 
 To see an example of the libraries being installed look at installations.ipynb or run it on your laptop for easy installation.
 <h2>
