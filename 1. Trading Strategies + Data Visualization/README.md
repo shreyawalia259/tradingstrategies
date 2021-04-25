@@ -2,4 +2,4 @@
 
 **2. Case Study 1-5:** These case studies are Jupyter notebooks containing applied strategies on stock data trends to get higher cummulative returns or ways to successfully visualiz those trends.
 
-     -Case study 1: 
+     1. Case study 1: 
