@@ -34,6 +34,13 @@ These case studies are Jupyter notebooks containing applied strategies on stock 
 
 <h3>  
 
+### Case Study 5:
+**Trading Dashboard Pt.2 — Yfinance & Python.**
+* Link: https://medium.com/analytics-vidhya/trading-dashboard-pt-2-yfinance-python-d482678b498d
+* Summary/Finding: good for how to pull live data, calculate key indicators such as returns, sharpe ratio and annual volatility and display to compare stocks interested in.
+
+<h3>
+ 
 <h2>
 
 
