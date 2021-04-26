@@ -6,7 +6,7 @@
 ## The Objective
 * Evaluating existing trading strategies implemented in Python to potentially create a teaching module for a financial data analysis course.
 * Looking into creating a dashboard tracking stock performance and strategy performance. 
-<h2>
+
  
 ### Step 1: Source Evaluation
 <h3>
@@ -23,7 +23,7 @@
 ### Extras: Dashboard Creation
 <h3>
  
-
+<h2>
 
 
 
