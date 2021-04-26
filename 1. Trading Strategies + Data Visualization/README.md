@@ -44,7 +44,14 @@ These case studies are Jupyter notebooks containing applied strategies on stock 
 * Link: https://mitchellrosenthalofficial.medium.com/crash-course-python-pandas-for-trading-and-investing-part-1-714b77dfdc21
 * Summary/Findings: Helpful for imports, creating time series and using moving average to create signals and evaluate returns on investment. This case study uses random number generation for stock prices instead of a real one.
 <h3>
- 
+
+### Case Study 7:
+**Making a Stock Screener with Python!**
+* Link: https://towardsdatascience.com/making-a-stock-screener-with-python-4f591b198261
+* Summary: Used 7 different conidtions on stocks current values to return a dataframe which shows all the stocks that passed or meet the requirements.
+Note: Helpful if you have some criteria to screen stocks out in your mind.
+
+<h3>
 <h2>
 
 
