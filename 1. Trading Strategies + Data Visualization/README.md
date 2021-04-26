@@ -31,14 +31,18 @@ These case studies are Jupyter notebooks containing applied strategies on stock 
 * Link: https://medium.com/analytics-vidhya/building-a-technical-analysis-chart-with-python-17107b78b297
 * Method: Building MACD, MA10,MA30 and RSI charts
 * Summary: Used talib library to get MACD, MA10,MA30 and RSI. Easy and Useful resource for pulling data and plotting it using common trading strategies such as MACD.
-
 <h3>  
 
 ### Case Study 5:
 **Trading Dashboard Pt.2 — Yfinance & Python.**
 * Link: https://medium.com/analytics-vidhya/trading-dashboard-pt-2-yfinance-python-d482678b498d
 * Summary/Finding: good for how to pull live data, calculate key indicators such as returns, sharpe ratio and annual volatility and display to compare stocks interested in.
-
+<h3>
+ 
+### Case Study 6:
+**Crash Course — Python & Pandas for Trading and Investing (Part 1)**
+* Link: https://mitchellrosenthalofficial.medium.com/crash-course-python-pandas-for-trading-and-investing-part-1-714b77dfdc21
+* Summary/Findings: Helpful for imports, creating time series and using moving average to create signals and evaluate returns on investment. This case study uses random number generation for stock prices instead of a real one.
 <h3>
  
 <h2>
