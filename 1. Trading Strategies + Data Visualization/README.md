@@ -2,6 +2,9 @@
 The installation file is a Jupyter notebook containing commands to run all the libraries needed to run Case Studies 1-7 successfully.
 <h2>
 
+## Libraries and Self Impementation
+This is a guide to using the yfinance and Ta-lib libraries that are extremely useful in pulling data on stocks and calculating measures such as moving averages. 
+ 
 ## Case Study 1-7: 
 These case studies are Jupyter notebooks containing applied strategies on stock data trends to get higher cummulative returns or ways to successfully visualiz those trends.
 
