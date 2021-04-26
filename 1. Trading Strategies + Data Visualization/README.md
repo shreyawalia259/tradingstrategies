@@ -12,6 +12,29 @@ These case studies are Jupyter notebooks containing applied strategies on stock 
 * Summary: Uses Arima model to fit the log of the closing statement each day and then uses GARCH to fit the residuals from ARIMA. Takes the sum of those to then compare against cumulative gains which is calculative through a cumulative sum of the log of closing values.
 * The sp500_forecasts file is used as a signal from the baseline strategy to compare cummulative returns to the new applied strategy by case study 1.
 <h3>
+
 ### Case Study 2:
+**Intrinsic Valuation of Stocks Using Python**
+* Link: https://medium.com/swlh/intrinsic-valuation-of-stocks-using-python-5d902a34b1a0
+* Summary: Purpose of this article is to help create a discounted cash flow model in python to calculate intrinsic value of a company. This helps to see whether or not a company is overvalued which can give help information for trading. Not exactly a trading strategy but good exploration of things that are impactful for stock market.
+<h3>
+ 
+### Case Study 3:
+**Python For Trading: An Introduction**
+* Link: https://blog.quantinsti.com/python-trading/
+* Method: Moving Average Convergence Divergence (MACD)
+* Summary: Has a good explanation from libraries to download to moving averages. Simple strategy to follow and how to check its performance. Good introduction for someone who is new to this but has basic python knowledge.
+<h3>
+ 
+### Case Study 4:
+**Building a Technical Analysis Chart with Python**
+* Link: https://medium.com/analytics-vidhya/building-a-technical-analysis-chart-with-python-17107b78b297
+* Method: Building MACD, MA10,MA30 and RSI charts
+* Summary: Used talib library to get MACD, MA10,MA30 and RSI. Easy and Useful resource for pulling data and plotting it using common trading strategies such as MACD.
+
+<h3>  
+
+<h2>
+
 
  
