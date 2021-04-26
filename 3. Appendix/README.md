@@ -6,9 +6,9 @@ Report on work done to collect all sources, evaluate them and organize them.
   
 ### Source Evaluation
 Includes an evaluation of articles on visualization techniques or stock trading strategies.
-Main goals:
-1. Check reproducibility of code in Python
-2. Evaluate teaching material potential of source.
+* **Main goals:**
+  1. Check reproducibility of code in Python
+  2. Evaluate teaching material potential of source.
 <h3>
    
 ### Teaching Module Examples
