@@ -44,15 +44,15 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 * **Link:** https://medium.com/analytics-vidhya/trading-dashboard-pt-2-yfinance-python-d482678b498d
 * **Summary/Finding:** good for how to pull live data, calculate key indicators such as returns, sharpe ratio and annual volatility and display to compare stocks interested in. 
 * **Libraries:** hvplot
-* **Code:dashboard**
-* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/dashboard.ipynb
+* **Code:Case Study 5**
+* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/1.%20Trading%20Strategies%20%2B%20Data%20Visualization/Case%20Study%205.ipynb
 <h3>
   
 ### Intrinsic Valuation of Stocks Using Python
 * **Link:** https://medium.com/swlh/intrinsic-valuation-of-stocks-using-python-5d902a34b1a0
 * **Summary/findings:** Purpose of this article is to help create a discounted cash flow model in python to calculate intrinsic value of a company. This helps to see whether or not a company is overvalued which can give help information for trading. Not exactly a trading strategy but good exploration of things that are impactful for stock market. 
 * **Code: Case Study 2**
-* * **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/1.%20Trading%20Strategies%20%2B%20Data%20Visualization/Case%20Study%202.ipynb
+* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/1.%20Trading%20Strategies%20%2B%20Data%20Visualization/Case%20Study%202.ipynb
 <h3>
 
 ### Crash Course — Python & Pandas for Trading and Investing (Part 1)
