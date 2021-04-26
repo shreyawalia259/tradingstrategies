@@ -10,7 +10,7 @@
 * **Summary:** Uses Arima model to fit the log of the closing statement each day and then uses GARCH to fit the residuals from ARIMA. Takes the sum of those to then compare against cumulative gains which is calculative through a cumulative sum of the log of closing values. 
 In R and Python, Arima model was fit by looping through several hyper-parameters and choosing lowest AIC. Through the Arima and Garch forecasts, signals are created. Our strategy will simply long the position if the prediction is 1 (up) and short if the prediction is -1 (down). 
 * **Code: Case Study 1. Sp500_forecasts file needed for the signal**
-* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/Arima%2BGarch.ipynb 
+* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/1.%20Trading%20Strategies%20%2B%20Data%20Visualization/Case%20Study%201.ipynb
 
 <h3>
 
@@ -23,8 +23,8 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 •	Annualised volatility, and
 •	Sharpe ratio.
 * **Summary:** Has a good explanation from libraries to download to moving averages. Simple strategy to follow and how to check its performance. Good introduction for someone who is new to this but has basic python knowledge. 
-* **Code: MACD strategy.**
-* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/MACD%20strategy.ipynb
+* **Code: Case Study 3**
+* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/1.%20Trading%20Strategies%20%2B%20Data%20Visualization/Case%20Study%203.ipynb
 
 <h3>
   
@@ -36,8 +36,8 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
   *	Useful resource for pulling data and plotting it using common trading strategies such as MACD. 
   *	Good as a starting point. 
 * **Libraries required:** Talib, mplfinance 
-* **Code: Technical Analysis Visualization**
-* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/Technical%20Analysis%20Visualization.ipynb
+* **Code: Case Study 4**
+* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/1.%20Trading%20Strategies%20%2B%20Data%20Visualization/Case%20Study%204.ipynb
 <h3>
   
 ### Trading Dashboard Pt.2 — Yfinance & Python.
@@ -51,8 +51,8 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 ### Intrinsic Valuation of Stocks Using Python
 * **Link:** https://medium.com/swlh/intrinsic-valuation-of-stocks-using-python-5d902a34b1a0
 * **Summary/findings:** Purpose of this article is to help create a discounted cash flow model in python to calculate intrinsic value of a company. This helps to see whether or not a company is overvalued which can give help information for trading. Not exactly a trading strategy but good exploration of things that are impactful for stock market. 
-* **Code: Evaluation.**
-* * **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/Evaluation.ipynb
+* **Code: Case Study 2**
+* * **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/1.%20Trading%20Strategies%20%2B%20Data%20Visualization/Case%20Study%202.ipynb
 <h3>
 
 ### Crash Course — Python & Pandas for Trading and Investing (Part 1)
