@@ -58,8 +58,8 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 ### Crash Course — Python & Pandas for Trading and Investing (Part 1)
 * **Link:** https://mitchellrosenthalofficial.medium.com/crash-course-python-pandas-for-trading-and-investing-part-1-714b77dfdc21
 * **Summary/Findings:** Helpful for imports, creating time series and using moving average to create signals and evaluate returns on investment. 
-* **Code: Testing moving average** 
-* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/Implemented%20Examples/testing%20moving%20average.ipynb
+* **Code:Case Study 6** 
+* **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/1.%20Trading%20Strategies%20%2B%20Data%20Visualization/Case%20Study%206.ipynb
 <h3>
   
 ### Title:Making a Stock Screener with Python!
