@@ -25,7 +25,10 @@ These summaries of each article was then added to their respective codes as well
 <h3>
  
 ### Step 2: Reproducing Results and Annotations
-In reproducing the results, I ran all the code from the authors' github in Jupyter Notebooks. I quickly realized that a lot of the libraries needed to be installed on my device still in order to run the code. Upon coming across that obstacle, I created an installations file where I put down the installation commands for each required libraries for all the repsective case studies. So the user would have to run this file once and they could easily work on any case study they wanted after. 
+In reproducing the results, I ran all the code from the authors' github in Jupyter Notebooks. I quickly realized that a lot of the libraries needed to be installed on my device still in order to run the code. Upon coming across that obstacle, I created an installations file where I put down the installation commands for each required libraries for all the repsective case studies. So the user would have to run this file once and they could easily work on any case study they wanted after.
+
+As stated, the code from each source has a summary at the beginning for understanding what the function of the code is. To further explain all the steps, I added an explanation for each step in the code so that it is easy to follow. It also makes it easier to understand how certain functions work and how to use them even if the user had never seen them before. 
+
 
 
 <h3>
