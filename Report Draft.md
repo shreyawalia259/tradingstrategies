@@ -29,7 +29,7 @@ In reproducing the results, I ran all the code from the authors' github in Jupyt
 
 As stated, the code from each source has a summary at the beginning for understanding what the function of the code is. To further explain all the steps, I added an explanation for each step in the code so that it is easy to follow. It also makes it easier to understand how certain functions work and how to use them even if the user had never seen them before. 
 
-In total there are 7 case studies that were reproducible from all the articles. These case studies include data visualization, forecasting and screening techniques.A lot of them focus on Moving Average Convergence Divergence which is a simple yet effective method of creating a signal to buy and sell for. These case studies are also simple to follow for beginners. Overall, the case studies together provide a good introduction into conducting data analysis on stock prices. 
+In total there are 7 case studies that were reproducible from all the articles. These case studies include data visualization, forecasting and screening techniques. A lot of them focus on Moving Average Convergence Divergence which is a simple yet effective method of creating a signal to buy and sell for. These case studies are also simple to follow for beginners. Overall, the case studies together provide a good introduction into conducting data analysis on stock prices. 
 <h3>
  
 ### Step 3: Finance Libraries’ Guide
