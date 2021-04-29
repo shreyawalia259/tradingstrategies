@@ -69,5 +69,3 @@ In the future maybe someone can work on finding more articles or authors to crea
 
 
 
-
-
