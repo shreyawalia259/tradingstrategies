@@ -1,9 +1,5 @@
 ## Appendix Materials 
 
-### Report
-Report on work done to collect all sources, evaluate them and organize them. 
-<h3>
-  
 ### Source Evaluation
 Includes an evaluation of articles on visualization techniques or stock trading strategies.
 * **Main goals:**
