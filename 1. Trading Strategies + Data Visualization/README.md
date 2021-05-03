@@ -9,6 +9,7 @@ This is a guide to using the yfinance and Ta-lib libraries that are extremely us
 These case studies are Jupyter notebooks containing applied strategies on stock data trends to get higher cummulative returns or ways to successfully visualiz those trends.
 
 ### Case Study 1 & sp500_forecasts:
+**A Step-by-Step Implementation of a Trading Strategy in Python using ARIMA + GARCH models** 
 * Link: https://medium.com/analytics-vidhya/a-step-by-step-implementation-of-a-trading-strategy-in-python-using-arima-garch-models-b622e5b3aa39
 * Implementation Method: Python implementation of ARIMA + Garch which is the improvement on Arima And Garch applied in R
 * Data: S&P Index from 1950-December 2020
