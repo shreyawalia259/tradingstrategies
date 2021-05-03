@@ -20,7 +20,7 @@ These case studies are Jupyter notebooks containing applied strategies on stock 
 ### Case Study 2:
 **Intrinsic Valuation of Stocks Using Python**
 * Link: https://medium.com/swlh/intrinsic-valuation-of-stocks-using-python-5d902a34b1a0
-* Summary: Purpose of this article is to help create a discounted cash flow model in python to calculate intrinsic value of a company. This helps to see whether or not a company is overvalued which can give help information for trading. Not exactly a trading strategy but good exploration of things that are impactful for stock market.
+* Summary: Purpose of this article is to help create a discounted cash flow model in python to calculate intrinsic value of a company. This helps to see whether or not a company is overvalued which can give helpful information to use trading. Not exactly a trading strategy but good exploration of things that are impactful for stock market.
 <h3>
  
 ### Case Study 3:
