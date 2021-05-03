@@ -62,7 +62,7 @@ In R and Python, Arima model was fit by looping through several hyper-parameters
 * **File:** https://github.com/shreyawalia259/tradingstrategies/blob/main/1.%20Trading%20Strategies%20%2B%20Data%20Visualization/Case%20Study%206.ipynb
 <h3>
   
-### Title:Making a Stock Screener with Python!
+### Making a Stock Screener with Python!
 * **Link:** https://towardsdatascience.com/making-a-stock-screener-with-python-4f591b198261
 * **Summary/Findings:** Used 7 different conidtions on stocks current values to return a dataframe which shows all the stocks that passed or meet the requirements. 
 * **Note:** Helpful if you have some criteria in your mind. 
