@@ -52,7 +52,7 @@ These case studies are Jupyter notebooks containing applied strategies on stock 
 ### Case Study 7:
 **Making a Stock Screener with Python!**
 * Link: https://towardsdatascience.com/making-a-stock-screener-with-python-4f591b198261
-* Summary: Used 7 different conidtions on stocks current values to return a dataframe which shows all the stocks that passed or meet the requirements.
+* Summary: Used 7 different conditions on stocks current values to return a dataframe which shows all the stocks that passed or meet the requirements.
 Note: Helpful if you have some criteria to screen stocks out in your mind.
 
 <h3>
